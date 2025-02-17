@@ -1,4 +1,5 @@
 **Simple Calculator Application**
+
 **Overview**
 The Simple Calculator Application provides basic mathematical operations. Users can choose between four options to perform calculations:
 
