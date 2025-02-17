@@ -109,3 +109,8 @@ This project is open-source and available under the MIT License. See the LICENSE
 **Acknowledgements**
 
 JUnit for unit testing
+
+
+**Demo video of how the project functions**
+
+Demo link : https://screenrec.com/share/EIauLYn5To
