@@ -23,7 +23,7 @@ JUnit for testing (included in the test folder)
 **1. Clone the repository:**
 To start using this project, clone the repository to your local machine:
 
-git clone https://github.com/your-username/simple-calculator.git
+git clone https:https://github.com/LawSibisi/Calculator.git
 
 **2. Compile and Run:**
 After cloning the repository, navigate to the project directory and compile the Java files:
