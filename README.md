@@ -1,4 +1,4 @@
-**Simple Calculator Application**
+**Simple Calculator Application (Demo link : https://screenrec.com/share/EIauLYn5To)**
 
 **Overview**
 The Simple Calculator Application provides basic mathematical operations. Users can choose between four options to perform calculations:
@@ -111,6 +111,3 @@ This project is open-source and available under the MIT License. See the LICENSE
 JUnit for unit testing
 
 
-**Demo video of how the project functions**
-
-Demo link : https://screenrec.com/share/EIauLYn5To
