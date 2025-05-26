@@ -2,7 +2,7 @@ package org.study;
 import java.util.*;
 import java.util.Scanner;
 
-
+//calculation program
 public class SimpleCalculatorApp {
     //Question 1
     public int add(int numA, int numB){
