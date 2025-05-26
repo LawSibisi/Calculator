@@ -28,6 +28,10 @@ pipeline {
                     sh "mvn test"
                 }
             }
-        }
+        stage("Complete") {
+            steps {
+                echo "Job has completed!!!"
+            }
+        } 
     }
 }
